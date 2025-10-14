@@ -1,13 +1,13 @@
 name = "MNS - Moog's Nether Structures"
-filename = "mns-1.1.5-1.21.9-fabric.jar"
+filename = "MoogsNetherStructures-1.21-2.0.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/nGUXvjTa/versions/IitQu2hs/mns-1.1.5-1.21.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/nGUXvjTa/versions/gDZUSxKT/MoogsNetherStructures-1.21-2.0.0.jar"
 hash-format = "sha512"
-hash = "aac441e703834a25f6b0057703b5b43cfe2591561504a8ba668c1585c7e12e7c6b4b90ce3b2084090a82410bdebcfba6078fddcaa2c328c1862f7d96ce4a6de0"
+hash = "d9570ac3b470623e767ca8b50eadc93e0d6850603e13b58a3fb619c8801dfefefe225c83b825b424e0034727b696d79dedad7d6fe63ffb6b507fbc8b78236c23"
 
 [update]
 [update.modrinth]
 mod-id = "nGUXvjTa"
-version = "IitQu2hs"
+version = "gDZUSxKT"

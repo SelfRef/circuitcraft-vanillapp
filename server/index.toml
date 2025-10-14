@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "8a211a3e3cc81d51c2e89d3d643d160d7b58d7cb7d626efa8de37c2749cf0f5e"
+hash = "6955491d128a11ca3c49dea296d2d3db48cc9301b561100191daca74c0b567f4"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d3fc5ea2725670704219de103376d8d1621ab2371f2d872b6dce329d141a7192"
+hash = "b683db7d507c3bac95b1ba7664d49062d59bea8e4ab131d7d1ceac4a8994298f"
 metafile = true
 
 [[files]]
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "d2329cce5d2bfe56f6b7b600514f8bbac17270ccd8e48179de75c8c8f1d5a382"
+hash = "30897864e2380066d897fe2387db57ce3cfe1753ddb9cff4437d0888ad448fae"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-sleep.pw.toml"
-hash = "9b4835851e4d0eaaf56c22e1492a2a46192f63af3d1417eebda58776c8506676"
+hash = "b3871250705bf7aaf3bbed053e13469d74847ac9681e357f3d9304a9ce57b41d"
 metafile = true
 
 [[files]]
@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "03436f3158e885ebe51f15a98e0afe611bd3391ad21f92b8ac7a185afb9d36c9"
+hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9e95b03752e15887c9236513f5443c6ba30fc311c1940152c7109c128a288f67"
+hash = "f4746201eea639c760fd6cb077b71dece4c1d3936c19e49544b77856d27495bd"
 metafile = true
 
 [[files]]
@@ -143,12 +143,12 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "d4abaf9b38dbb6c53d606f15e3175ad6093fef876ea230c9258c2e8499e6308e"
+hash = "8709d16a07caea1962d2cbf1b3ae1f156de3f78bc15dcd4af9d26010518567a1"
 metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "9738d58a74f565f3a00eeeab166683719d7b744f6b780024b8f44d3334759396"
+hash = "37e37d378573a64b1f00b81f7bf96071a053a387d70da2e29471315e98a029c7"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "8b7dbdcfdbb40aeff13e821eae9e24e2666df515c1316c69c0dd3227185e4622"
+hash = "6fb9c05b457315636ad8e5e15c629130a5c10a328c012a12b72282b87c9acde3"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "f02d3285dca053b6929b4e3ce1090cca7614a74829b9dfd2788f9fbf2a26a00a"
+hash = "019737abe9c9d7ef3638556e810babc2a3258a5c9be6cc15b79f780e71db7fa9"
 metafile = true
 
 [[files]]
@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "88e1cf290eb023af36efe7b20d1fb880597326d132189763b293a644c203ebfb"
+hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
 metafile = true
 
 [[files]]
@@ -290,17 +290,17 @@ hash = "8f18563bc567e7ea8955255712bb4d651c52a78fac30e5c7cd66fc4aa746b46c"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "71e317f0a005cf96c85d2a917c59f166adf2c9e027ed2ea7fe5fcd2686577965"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "25183d9bf95c204041e09bec06b92a47647858b4c5d32b8b159babae60b0c9a1"
+hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
 metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "68073b40c89100f1063f1b82ec17413f532aa7323be26e072090b58ad3b7c8f3"
+hash = "5f0ce148b26430f53d74c88335b8a9412a085d8c24415e5a66123e106957dd5e"
 metafile = true
 
 [[files]]
