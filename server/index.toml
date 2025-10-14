@@ -32,6 +32,11 @@ hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "c8e44696c6267daf8114c58772af4c78083f3c658db2019b49c9ebe8df54bf5f"
+metafile = true
+
+[[files]]
 file = "mods/automodpack.pw.toml"
 hash = "bf50fa6f4e0c2b614d5a6b7e6769c1f00d377f711c921a31733d1adfc496a82c"
 metafile = true
