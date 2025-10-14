@@ -1,0 +1,33 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/defaultoptions/extra/automodpack/automodpack-client.json"
+hash = "240e6574d2ed5210f38500d76acf62b974c66319ca7fdcc94046a362cf7b819e"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "ad01af66b226cd0b065e06b1a5301c3d14107cb9f8063576779bc4c0057c1101"
+
+[[files]]
+file = "mods/automodpack.pw.toml"
+hash = "75d320d7025505a23aee96abc8b44d1d3133b1270861cf406699e42068ea39bc"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7d2277f6c8217acf185bbe0b9a05c53e0393ee1b8b267fd7c640354ee4cc0dcf"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "001e8854fc3e5e81d168944d8f32f1eb5f27a4808131783d647dbaf7824b9dd3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "48a71da0cd96100ccc239fa88fb6280094f0a0b1a555a2bdcc2e58dc2d7ebcc5"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "8f18563bc567e7ea8955255712bb4d651c52a78fac30e5c7cd66fc4aa746b46c"

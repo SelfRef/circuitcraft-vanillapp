@@ -1,0 +1,13 @@
+name = "Miniature Shader"
+filename = "miniature-shader-2.18.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UaS8ROxa/versions/lhao8exj/miniature-shader-2.18.1.zip"
+hash-format = "sha512"
+hash = "5893bf8458cb1741f3231719ba2f08d795a8b020769e8d9dec6af963b00edd3b8f97e08e35c9c3ed9fc6f7b1c2b65505fdf5ffe7355fe04fe07efefb7cf8aa05"
+
+[update]
+[update.modrinth]
+mod-id = "UaS8ROxa"
+version = "lhao8exj"

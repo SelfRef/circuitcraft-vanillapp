@@ -1,0 +1,13 @@
+name = "Anvil Restoration"
+filename = "anvilrestoration-1.21.9-2.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bd8nwTGy/versions/WPnpt3be/anvilrestoration-1.21.9-2.5.jar"
+hash-format = "sha512"
+hash = "4e97d2179ed86b5a712d145024639b44453e99a16677184c625dc1eb4d76d96b7f2af8e553e71b49aba5b14a970e533362cbae0b4283d0bc3acb0a76b20313d7"
+
+[update]
+[update.modrinth]
+mod-id = "bd8nwTGy"
+version = "WPnpt3be"

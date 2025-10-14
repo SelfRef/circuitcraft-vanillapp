@@ -1,0 +1,13 @@
+name = "Fast Sleep"
+filename = "fast-sleep-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F6Sjr2Yy/versions/g4tQwQkW/fast-sleep-0.1.jar"
+hash-format = "sha512"
+hash = "8b08541feab032681fb50ceb5dee73bdbfa7c593705112b394bc537b57ec435ef2567dcb22da38cb72c7cdca1191a8a351eaf7670c48c33f16d0a86d5543b4ed"
+
+[update]
+[update.modrinth]
+mod-id = "F6Sjr2Yy"
+version = "g4tQwQkW"

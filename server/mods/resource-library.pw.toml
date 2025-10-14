@@ -1,0 +1,13 @@
+name = "Resource Library"
+filename = "resourcelibrary-fabric-1.21.9-2.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XLhounCW/versions/pLWYSRKw/resourcelibrary-fabric-1.21.9-2.9.1.jar"
+hash-format = "sha512"
+hash = "0604850edd3351996a91b30ae79d600fcd5c5dfef10acc363674a37c6dbed826a6c806bade1954583d69280269b4b5fd2daa133beae020a0498decf113e29fe8"
+
+[update]
+[update.modrinth]
+mod-id = "XLhounCW"
+version = "pLWYSRKw"
