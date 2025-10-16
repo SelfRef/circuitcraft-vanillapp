@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "automodpack/automodpack-server.json"
-hash = "03cdce299ca13cb72a9bf441b55a5e42d003b4fb1c17e62a01708c8d673aaefb"
+hash = "8cc75635871d1bb5d5e8cd24b162151557419344310095f8800fdb79bc5691c9"
 
 [[files]]
 file = "config/defaultoptions/extra/automodpack/automodpack-client.json"
@@ -13,8 +13,16 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "ad01af66b226cd0b065e06b1a5301c3d14107cb9f8063576779bc4c0057c1101"
 
 [[files]]
+file = "config/euphoria_patcher.properties"
+hash = "b1f392d56c527e657c9b37eaf0fc6967f8c95c167c3e925fcf4518bdd4dd96af"
+
+[[files]]
 file = "config/universal-graves/config.json"
 hash = "c2a938eddadd498ee4675b982e16eafaebe6db9478254fffedfba0f8f9ea8587"
+
+[[files]]
+file = "eula.txt"
+hash = "ee27072e4a23e088522f740ddaab0c7c4145c186969e90a86254faa3a5ec5ce6"
 
 [[files]]
 file = "mods/advanced-shulkerboxes.pw.toml"
@@ -79,11 +87,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "b683db7d507c3bac95b1ba7664d49062d59bea8e4ab131d7d1ceac4a8994298f"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "b1f5e7bdfbe821180a261b7b2ea2a37f20bdd2c13a2f435d664647f447f733b0"
 metafile = true
 
 [[files]]
