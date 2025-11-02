@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "automodpack/automodpack-server.json"
-hash = "8cc75635871d1bb5d5e8cd24b162151557419344310095f8800fdb79bc5691c9"
+hash = "09586aa007ab48c8c106d12d14a227e36438925887ab2b12b2c6256e45d2361c"
 
 [[files]]
 file = "config/defaultoptions/extra/automodpack/automodpack-client.json"
@@ -17,12 +17,20 @@ file = "config/euphoria_patcher.properties"
 hash = "b1f392d56c527e657c9b37eaf0fc6967f8c95c167c3e925fcf4518bdd4dd96af"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "2b16d6b699429794cd0acf2c93011ac90d21f97fb52d927dbde43ae903b7049a"
+
+[[files]]
 file = "config/universal-graves/config.json"
 hash = "c2a938eddadd498ee4675b982e16eafaebe6db9478254fffedfba0f8f9ea8587"
 
 [[files]]
 file = "eula.txt"
 hash = "ee27072e4a23e088522f740ddaab0c7c4145c186969e90a86254faa3a5ec5ce6"
+
+[[files]]
+file = "mods/RoughlyEnoughItems-21.9.9999-fabric.jar"
+hash = "3a4cdb86f1ba1ca5e4ddb10d73d6f6e9f27818d973497bfe3a1ba5baca210000"
 
 [[files]]
 file = "mods/advanced-shulkerboxes.pw.toml"
@@ -46,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/automodpack.pw.toml"
-hash = "76361fb21fb4cce7d85111f8cc7b4d93bb23748db23fca6d6e1de7fea84eb70e"
+hash = "0dce740fbf6f233f7be8301352832899d23807f6ba205412d959f7c2d5822505"
 metafile = true
 
 [[files]]
@@ -66,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "368b538e311c20808f1914e79813285259715b6cebee22484c53be233e1e8553"
+hash = "4a9910d74bb7a85600abaf36ae568bcfb10e76062b9d5d718656f5d172e79419"
 metafile = true
 
 [[files]]
@@ -81,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ab92afc9c86b581a10eb4e8dc52a3640deeb6d03fb662f6f53b2a21e87d74405"
+hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
 metafile = true
 
 [[files]]
@@ -101,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "30897864e2380066d897fe2387db57ce3cfe1753ddb9cff4437d0888ad448fae"
+hash = "68d83de0de41e1f28165a6dbd932319e8c8b46461b6a0fecf2dd3360091d34b9"
 metafile = true
 
 [[files]]
@@ -131,12 +139,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "8943d352c205e18399c893fb7135dc756f53ecc08fb3fb4b4bac048a788f47d0"
+hash = "a077e0482f50add9ef20e962a7939aa678583cb3f354fb6b6124219badafdd4d"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "f4746201eea639c760fd6cb077b71dece4c1d3936c19e49544b77856d27495bd"
+hash = "471c02eac5adf025ed2246c2d3efd8267c67574f1bc7329b49caa1ada17fbc9e"
 metafile = true
 
 [[files]]
@@ -146,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9eb0ad2cd0e409ea588069d7458f4cf2c705ecf71599e06dfe780b13de0013c6"
+hash = "7fc67cabd5de89ebe9d7d995cdf160ceff0572c2bef784e846675976a428c9fa"
 metafile = true
 
 [[files]]
@@ -206,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "4762935a3ab92c3ad07f3eb43a7bb8f9997066c9f8e9c68745f286e395f7b51e"
+hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
 metafile = true
 
 [[files]]

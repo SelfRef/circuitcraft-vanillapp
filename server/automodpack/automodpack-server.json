@@ -11,7 +11,9 @@
     "/config/defaultoptions/**",
     "/servers.dat"
   ],
-  "allowEditsInFiles": [],
+  "allowEditsInFiles": [
+    "/config/roughlyenoughitems/config.json5"
+  ],
   "forceCopyFilesToStandardLocation": [],
   "autoExcludeServerSideMods": true,
   "autoExcludeUnnecessaryFiles": true,

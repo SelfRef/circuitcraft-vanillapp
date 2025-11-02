@@ -1,13 +1,13 @@
 name = "AutoModpack"
-filename = "automodpack-mc1.21.9-fabric-4.0.0-beta41.jar"
+filename = "automodpack-mc1.21.9-fabric-4.0.0-beta44.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/k68glP2e/versions/41QfExp4/automodpack-mc1.21.9-fabric-4.0.0-beta41.jar"
+url = "https://cdn.modrinth.com/data/k68glP2e/versions/BbU4anOZ/automodpack-mc1.21.9-fabric-4.0.0-beta44.jar"
 hash-format = "sha512"
-hash = "aca493a64f11e19c2d776aa2bbc9433d23d16005ed932474956a02a0a52516dd963c417079b0e176eb4227e2e37cb96f61ff78891b3701e5174e2d3fc74c2e9c"
+hash = "074c9e8d189dbb452f62f39e97439e684f6509a336e9671f476375305aa0a855e660f7928650471104ca8ba34f7021be28f1b0bb998f5836b840667e701b2a9a"
 
 [update]
 [update.modrinth]
 mod-id = "k68glP2e"
-version = "41QfExp4"
+version = "BbU4anOZ"
