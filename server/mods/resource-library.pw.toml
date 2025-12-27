@@ -1,13 +1,13 @@
 name = "Resource Library"
-filename = "resourcelibrary-fabric-1.21.9-2.9.1.jar"
+filename = "resourcelibrary-fabric-1.21.11-2.10.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XLhounCW/versions/pLWYSRKw/resourcelibrary-fabric-1.21.9-2.9.1.jar"
+url = "https://cdn.modrinth.com/data/XLhounCW/versions/NqGWDeZc/resourcelibrary-fabric-1.21.11-2.10.0.jar"
 hash-format = "sha512"
-hash = "0604850edd3351996a91b30ae79d600fcd5c5dfef10acc363674a37c6dbed826a6c806bade1954583d69280269b4b5fd2daa133beae020a0498decf113e29fe8"
+hash = "f8dbf1d6f64fdbacd4348d18e052ea7312aab1465a6c401430c2a91b329468faadc26515a6d88b6e82f888e8c9c8275eb4dd40b476474e1d8314812f70596753"
 
 [update]
 [update.modrinth]
 mod-id = "XLhounCW"
-version = "pLWYSRKw"
+version = "NqGWDeZc"

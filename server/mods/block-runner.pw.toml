@@ -1,13 +1,13 @@
 name = "Block Runner"
-filename = "BlockRunner-v21.9.0+mc1.21.9-Fabric.jar"
+filename = "BlockRunner-v21.11.0-mc1.21.11-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1VSGxqkt/versions/y4r21z50/BlockRunner-v21.9.0%2Bmc1.21.9-Fabric.jar"
+url = "https://cdn.modrinth.com/data/1VSGxqkt/versions/i4RmOiga/BlockRunner-v21.11.0-mc1.21.11-Fabric.jar"
 hash-format = "sha512"
-hash = "d721030c53edc0be942318c85a17580e0323266d9ba0c75be2edf6cdb9f9f4d9cc035b440e8d755ac39271d22216775dd5467ee6e5a6c627dc0b4c8bc8463ead"
+hash = "44d95ea10805975cb5fdec56091445ddb794d949da7136b269d2bb0860b697e0702acb30efe17719f6db70b81769de633cb4277336943b03896296a348e24e5e"
 
 [update]
 [update.modrinth]
 mod-id = "1VSGxqkt"
-version = "y4r21z50"
+version = "i4RmOiga"

@@ -1,13 +1,13 @@
 name = "Resource Config API"
-filename = "resourceconfigapi-fabric-1.21.9-3.8.0.jar"
+filename = "resourceconfigapi-fabric-1.21.11-3.9.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/69TY9iyJ/versions/Kuyvyd21/resourceconfigapi-fabric-1.21.9-3.8.0.jar"
+url = "https://cdn.modrinth.com/data/69TY9iyJ/versions/SfS04tgL/resourceconfigapi-fabric-1.21.11-3.9.2.jar"
 hash-format = "sha512"
-hash = "ebb591003d1906d5381f48351e6fa039a8733eb4cb43927b46ce18771f049c65543e60a315f9a8bff55dea74c7bb92bfd8a40d93ed36b48d0f69c4827fb3c541"
+hash = "a4653ffba88e495771c464452158cd9862e9d6e4628397634647380bc1b0afa9d0c604cffabc6f72c420731a9807e609926381e07fc0e3b387c120dbdb4c0857"
 
 [update]
 [update.modrinth]
 mod-id = "69TY9iyJ"
-version = "Kuyvyd21"
+version = "SfS04tgL"

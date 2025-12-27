@@ -8,12 +8,11 @@
     "/shaderpacks/*",
     "/config/universal-graves/config.json",
     "/config/euphoria_patcher.properties",
+    "/config/roughlyenoughitems/config.json5",
     "/config/defaultoptions/**",
     "/servers.dat"
   ],
-  "allowEditsInFiles": [
-    "/config/roughlyenoughitems/config.json5"
-  ],
+  "allowEditsInFiles": [],
   "forceCopyFilesToStandardLocation": [],
   "autoExcludeServerSideMods": true,
   "autoExcludeUnnecessaryFiles": true,
