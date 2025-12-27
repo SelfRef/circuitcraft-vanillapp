@@ -1,13 +1,13 @@
 name = "CircuitCraft Vanilla++"
 author = "SelfRef"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5b74a08ae85d2517cb84e550615bb82aee8a15759eb50aca719b75bdcfdb5b09"
+hash = "353b578efe03e651a9af850bc2cfc0c652be864223922d88660e83a1b59bb0d5"
 
 [versions]
-fabric = "0.17.2"
-minecraft = "1.21.9"
+fabric = "0.18.4"
+minecraft = "1.21.11"

@@ -10,22 +10,22 @@ hash = "ad01af66b226cd0b065e06b1a5301c3d14107cb9f8063576779bc4c0057c1101"
 
 [[files]]
 file = "mods/automodpack.pw.toml"
-hash = "75d320d7025505a23aee96abc8b44d1d3133b1270861cf406699e42068ea39bc"
+hash = "68c6403adbe1e00a52faee4f95fc38a55f167c760df2d9fc7b7eeef996847c54"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7d2277f6c8217acf185bbe0b9a05c53e0393ee1b8b267fd7c640354ee4cc0dcf"
+hash = "5d0603e338ddb39ddbac6c1732639c6b55c968e6a9dc9aab981dcae5ad3c34cf"
 metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "001e8854fc3e5e81d168944d8f32f1eb5f27a4808131783d647dbaf7824b9dd3"
+hash = "024c19f7da29f18d59bfc3dd0344b611e5acdf28f90c0f9e73295f20e67e493f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "48a71da0cd96100ccc239fa88fb6280094f0a0b1a555a2bdcc2e58dc2d7ebcc5"
+hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
 metafile = true
 
 [[files]]
