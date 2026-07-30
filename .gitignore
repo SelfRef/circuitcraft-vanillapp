@@ -1,1 +1,4 @@
-*.mrpack
+/build/
+/server/*.jar
+/server/mods/
+/*.zip
